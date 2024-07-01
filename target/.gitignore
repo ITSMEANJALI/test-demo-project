@@ -1,3 +1,4 @@
 target/*
-.classpah
-.setting
+.classpath
+.settings
+.project
